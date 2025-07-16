@@ -93,6 +93,13 @@ define( 'WP_MEMORY_LIMIT', '256M' );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
+/**
+ * Override site URL settings to prevent redirects to the production host.
+ * Adjust these values to match the local environment.
+ */
+define( 'WP_HOME', 'http://localhost/anna' );
+define( 'WP_SITEURL', 'http://localhost/anna' );
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
