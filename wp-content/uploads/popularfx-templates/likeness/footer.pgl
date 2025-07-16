@@ -1,0 +1,13 @@
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_padding":"50px,0px,50px,0px","ele_bg_type":"color","ele_bg_color":"#0d0d0dff","ele_sticky_on":"desktop","ele_img_color":"","ele_bg_attachment":"fixed","pagelayer-id":"oMKzUnYuPjgHudzD"} -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"center","col_width":"30","col_width_tablet":"100","col_width_mobile":"100","pagelayer-id":"Op2ngRfUdOreUm6M"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","align":"center","color":"#ffffffff","text":"\u003ch2\u003eLikeness\u003c\/h2\u003e","pagelayer-id":"GaRbnZKTYTy6eX5c"} --><h2>Likeness</h2><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","align":"center","color":"#ffffffff","text":"\u003cp\u003eLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \u003c\/p\u003e","pagelayer-id":"ec6VHOs6B98rT3OW"} --><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_share_grp {"type":"icon","bg_shape":"pagelayer-social-bg-none","align":"center","vspace":"5","hspace":"10","height":"35","icon_size":"35","icon_space":"5","color_scheme":"","icon_color":"#ffffff","social_hover_delay":"400","name_typo":",15,,,,,solid,,,,","icon_bg_color":"#080808ff","ele_padding":"10px,0px,0px,0px","pagelayer-id":"GPSy6lsN8KSRHi4T"} -->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-facebook-square","pagelayer-id":"lm8FhAQUZXu624d8"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-twitter","pagelayer-id":"BAmWHi33t13iu09f"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-instagram","pagelayer-id":"m64owWoOIETj6MuU"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-google-plus","pagelayer-id":"MvPthTRL53Www5IO"} /-->
+<!-- /sp:pagelayer/pl_share_grp -->
+<!-- sp:pagelayer/pl_copyright {"copyright_text":"\u00a9 2020 Likeness","align":"center","color":"#ffffffff","typography":",18,,,,,Solid,,,,","ele_padding":"10px,0px,0px,0px","pagelayer-id":"k3Y3Oy4FVPhHhHxp"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

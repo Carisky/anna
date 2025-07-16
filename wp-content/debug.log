@@ -1,0 +1,45 @@
+[16-Jul-2025 12:48:52 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in E:\OsPanel\domains\anna\wp-content\plugins\loginizer-security\init.php on line 3258
+[16-Jul-2025 12:49:29 UTC] Automatic updates starting...
+[16-Jul-2025 12:49:29 UTC]   Automatic plugin updates starting...
+[16-Jul-2025 12:49:29 UTC]     Upgrading plugin 'mailpoet'...
+[16-Jul-2025 12:49:45 UTC]     Plugin 'mailpoet' has been upgraded.
+[16-Jul-2025 12:49:47 UTC]     Scraping home page...
+[16-Jul-2025 12:49:50 UTC] PHP Notice:  Funkcja as_unschedule_all_actions została wywołana <strong>nieprawidłowo</strong>. as_unschedule_all_actions() was called before the Action Scheduler data store was initialized Dowiedz się więcej: <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugowanie w WordPressie</a>. (Ten komunikat został dodany w wersji 3.1.6.) in E:\OsPanel\domains\anna\wp-includes\functions.php on line 6121
+[16-Jul-2025 12:50:11 UTC] '###### wp_scraping_result_start:ffbc12b1699cc9eafe072988d90a560f ######
+true
+###### wp_scraping_result_end:ffbc12b1699cc9eafe072988d90a560f ######
+'
+[16-Jul-2025 12:50:11 UTC]     The update for 'mailpoet' has no fatal errors.
+[16-Jul-2025 12:50:11 UTC]     Upgrading plugin 'ultimate-addons-for-gutenberg'...
+[16-Jul-2025 12:50:15 UTC]     Plugin 'ultimate-addons-for-gutenberg' has been upgraded.
+[16-Jul-2025 12:50:15 UTC]     'ultimate-addons-for-gutenberg/ultimate-addons-for-gutenberg.php' is inactive and will not be checked for fatal errors.
+[16-Jul-2025 12:50:15 UTC]     Upgrading plugin 'wordpress-seo'...
+[16-Jul-2025 12:50:22 UTC]     Plugin 'wordpress-seo' has been upgraded.
+[16-Jul-2025 12:50:24 UTC]     Scraping home page...
+[16-Jul-2025 12:50:28 UTC] '###### wp_scraping_result_start:921a9371441fc72994dca88b6e154c25 ######
+true
+###### wp_scraping_result_end:921a9371441fc72994dca88b6e154c25 ######
+'
+[16-Jul-2025 12:50:28 UTC]     The update for 'wordpress-seo' has no fatal errors.
+[16-Jul-2025 12:50:28 UTC]     Upgrading plugin 'loginizer-security'...
+[16-Jul-2025 12:50:28 UTC]     Plugin 'loginizer-security' has been upgraded.
+[16-Jul-2025 12:50:30 UTC]     Scraping home page...
+[16-Jul-2025 12:50:34 UTC] '###### wp_scraping_result_start:07be695260a08339367c8b2b9442a2f7 ######
+true
+###### wp_scraping_result_end:07be695260a08339367c8b2b9442a2f7 ######
+'
+[16-Jul-2025 12:50:34 UTC]     The update for 'loginizer-security' has no fatal errors.
+[16-Jul-2025 12:50:34 UTC]   Automatic plugin updates complete.
+[16-Jul-2025 12:50:34 UTC]   Automatic theme updates starting...
+[16-Jul-2025 12:50:34 UTC]   Automatic theme updates complete.
+[16-Jul-2025 12:50:34 UTC] Automatic updates complete.
+[16-Jul-2025 12:51:02 UTC] PHP Warning:  The URL https://s4.softaculous.com/a/backuply//updates.php?version=1.4.5&checking_for_updates=1&installed_version=1.4.5&license=SOFTWP-21943-18986-41626-19489&url=http%3A%2F%2Fanna does not point to a valid plugin metadata file. WP HTTP Error: cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received in E:\OsPanel\domains\anna\wp-content\plugins\backuply-pro\lib\plugin-update-checker.php on line 974
+[16-Jul-2025 12:51:12 UTC] PHP Warning:  The URL https://s3.softaculous.com/a/fileorganizer//updates.php?version=1.1.5&checking_for_updates=1&installed_version=1.1.5&license=SOFTWP-21943-18986-41626-19489&url=http%3A%2F%2Fanna does not point to a valid plugin metadata file. WP HTTP Error: cURL error 28: Operation timed out after 10013 milliseconds with 0 out of 0 bytes received in E:\OsPanel\domains\anna\wp-content\plugins\fileorganizer-pro\main\plugin-update-checker.php on line 974
+[16-Jul-2025 12:51:22 UTC] PHP Warning:  The URL https://s3.softaculous.com/a/gosmtp/updates.php?version=1.1.1&checking_for_updates=1&installed_version=1.1.1&license=SOFTWP-21943-18986-41626-19489&url=http%3A%2F%2Fanna does not point to a valid plugin metadata file. WP HTTP Error: cURL error 28: Operation timed out after 10014 milliseconds with 0 bytes received in E:\OsPanel\domains\anna\wp-content\plugins\gosmtp-pro\main\plugin-update-checker.php on line 974
+[16-Jul-2025 12:51:32 UTC] PHP Warning:  The URL https://s4.softaculous.com/a/loginizer//updates.php?version=2.0.0&checking_for_updates=1&installed_version=2.0.0&license=SOFTWP-21943-18986-41626-19489&url=http%3A%2F%2Fanna does not point to a valid plugin metadata file. WP HTTP Error: cURL error 28: Operation timed out after 10011 milliseconds with 0 out of 0 bytes received in E:\OsPanel\domains\anna\wp-content\plugins\loginizer-security\updater\plugin-update-checker.php on line 985
+[16-Jul-2025 12:51:56 UTC] Automatic updates starting...
+[16-Jul-2025 12:51:56 UTC]   Automatic plugin updates starting...
+[16-Jul-2025 12:51:56 UTC]   Automatic plugin updates complete.
+[16-Jul-2025 12:51:56 UTC]   Automatic theme updates starting...
+[16-Jul-2025 12:51:56 UTC]   Automatic theme updates complete.
+[16-Jul-2025 12:51:56 UTC] Automatic updates complete.
