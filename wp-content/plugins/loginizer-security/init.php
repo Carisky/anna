@@ -142,7 +142,8 @@ $site_name';
 	
 	// Checksum Settings
 	$options = get_option('loginizer_checksums');
-	$loginizer['disable_checksum'] = empty($options['disable_checksum']) ? '' : $options['disable_checksum'];
+       // Disable checksum scans by default to avoid long execution times
+       $loginizer['disable_checksum'] = empty($options['disable_checksum']) ? '1' : $options['disable_checksum'];
 	$loginizer['checksum_time'] = empty($options['checksum_time']) ? '' : $options['checksum_time'];
 	$loginizer['checksum_frequency'] = empty($options['checksum_frequency']) ? 7 : $options['checksum_frequency'];
 	$loginizer['no_checksum_email'] = empty($options['no_checksum_email']) ? '' : $options['no_checksum_email'];
